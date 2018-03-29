@@ -7,7 +7,7 @@ This API is really useful and practical because  it allow people, who do not hav
 
 
 #### How it works?
-![smschat01](https://cloud.githubusercontent.com/assets/5614506/7891417/59353a08-0601-11e5-9926-ee761db8aaa1.png)
+![textchat](https://user-images.githubusercontent.com/5614506/38072815-fb3bf890-32dc-11e8-81b0-0964ee9631c7.png)
 
 #### Brief Explanation
 Basically the process starts when a client texts some keyword to a short code number. The API will send that text message to the InContact system where it is an agent getting all the messages in a Chat interface.
